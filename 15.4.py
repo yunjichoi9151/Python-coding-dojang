@@ -1,3 +1,6 @@
+# 파이썬 코딩 도장
+# Chapter 15 심사문제
+ 
 age = int(input())
 balance = 9000
 
